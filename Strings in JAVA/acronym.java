@@ -1,4 +1,6 @@
 // Check if a String Is an Acronym of Words
+// what is an acronym?
+// An acronym is a word formed by taking the first letters of the words in a phrase and making a word from them.
 
 import java.util.ArrayList;
 import java.util.List;
