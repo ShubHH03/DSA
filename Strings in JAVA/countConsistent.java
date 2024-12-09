@@ -1,4 +1,10 @@
-// Source: https://leetcode.com/problems/count-the-number-of-consistent-strings/
+
+// You are given a string allowed consisting of distinct characters and an array of strings words.
+// A string is consistent if all characters in the string appear in the string allowed.
+// Return the number of consistent strings in the array words.
+
+// Example:
+// Input: allowed = "ab", words = ["ad","bd","aaab","baa","badab"]
 
 import java.util.HashSet;
 import java.util.Set;

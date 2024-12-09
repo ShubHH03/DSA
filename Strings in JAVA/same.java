@@ -1,3 +1,5 @@
+// Question: Given two strings A and B, find the number of characters that are same in both the strings at the same position.
+
 public class same {
     static int solution(String A, String B) 
     {

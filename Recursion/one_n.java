@@ -1,4 +1,6 @@
 
+// Print 1 to n using recursion
+
 public class one_n{
 
     // Approach - 1

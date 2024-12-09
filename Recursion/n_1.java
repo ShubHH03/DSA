@@ -1,4 +1,6 @@
 
+// Print n to 1 using recursion
+
 public class n_1 {
     public static void printt(int n) {
         if(n>0){

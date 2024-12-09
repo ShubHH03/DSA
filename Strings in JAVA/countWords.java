@@ -1,3 +1,6 @@
+
+// Given a string, count the number of words present in the string. 
+
 public class countWords {
     static int solution(String s){
         int count = 0;

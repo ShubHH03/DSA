@@ -1,3 +1,6 @@
+
+// Given a number n, find the sum of all numbers from 1 to n using recursion.
+
 public class sum_of_n {
     static int total(int n){
         int count = 0;

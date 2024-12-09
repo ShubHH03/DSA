@@ -1,3 +1,6 @@
+
+// Write a program to count the number of lowercase letters in a string
+
 public class countSmall {
     static int solution(String s) {
         int count = 0;
